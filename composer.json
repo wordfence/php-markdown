@@ -1,7 +1,7 @@
 {
-	"name": "michelf/php-markdown",
+	"name": "wordfence/php-markdown",
 	"type": "library",
-	"description": "PHP Markdown",
+	"description": "PHP Markdown - Fork of michelf/php-markdown",
 	"homepage": "https://michelf.ca/projects/php-markdown/",
 	"keywords": ["markdown"],
 	"license": "BSD-3-Clause",
